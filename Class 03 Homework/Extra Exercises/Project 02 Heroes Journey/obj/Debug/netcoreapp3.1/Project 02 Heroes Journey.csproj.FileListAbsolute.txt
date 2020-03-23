@@ -1,0 +1,11 @@
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\bin\Debug\netcoreapp3.1\Project 02 Heroes Journey.exe
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\bin\Debug\netcoreapp3.1\Project 02 Heroes Journey.deps.json
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\bin\Debug\netcoreapp3.1\Project 02 Heroes Journey.runtimeconfig.json
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\bin\Debug\netcoreapp3.1\Project 02 Heroes Journey.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\bin\Debug\netcoreapp3.1\Project 02 Heroes Journey.dll
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\bin\Debug\netcoreapp3.1\Project 02 Heroes Journey.pdb
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\obj\Debug\netcoreapp3.1\Project 02 Heroes Journey.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\obj\Debug\netcoreapp3.1\Project 02 Heroes Journey.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\obj\Debug\netcoreapp3.1\Project 02 Heroes Journey.AssemblyInfo.cs
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\obj\Debug\netcoreapp3.1\Project 02 Heroes Journey.dll
+C:\Users\Ace\Desktop\C# Homework\Class 03 Homework\Extra Exercises\Project 02 Heroes Journey\obj\Debug\netcoreapp3.1\Project 02 Heroes Journey.pdb
