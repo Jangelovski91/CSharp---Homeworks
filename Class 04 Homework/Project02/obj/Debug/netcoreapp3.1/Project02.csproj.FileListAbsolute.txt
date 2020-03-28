@@ -1,0 +1,11 @@
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\bin\Debug\netcoreapp3.1\Project02.exe
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\bin\Debug\netcoreapp3.1\Project02.deps.json
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\bin\Debug\netcoreapp3.1\Project02.runtimeconfig.json
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\bin\Debug\netcoreapp3.1\Project02.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\bin\Debug\netcoreapp3.1\Project02.dll
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\bin\Debug\netcoreapp3.1\Project02.pdb
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\obj\Debug\netcoreapp3.1\Project02.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\obj\Debug\netcoreapp3.1\Project02.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\obj\Debug\netcoreapp3.1\Project02.AssemblyInfo.cs
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\obj\Debug\netcoreapp3.1\Project02.dll
+C:\Users\Ace\Desktop\Class 04 Homework\Project02\obj\Debug\netcoreapp3.1\Project02.pdb
