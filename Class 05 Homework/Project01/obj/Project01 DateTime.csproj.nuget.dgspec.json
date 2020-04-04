@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project01\\Project01 DateTime.csproj": {}
+    "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project01\\Project01 DateTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project01\\Project01 DateTime.csproj": {
+    "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project01\\Project01 DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project01\\Project01 DateTime.csproj",
+        "projectUniqueName": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project01\\Project01 DateTime.csproj",
         "projectName": "Project01 DateTime",
-        "projectPath": "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project01\\Project01 DateTime.csproj",
+        "projectPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project01\\Project01 DateTime.csproj",
         "packagesPath": "C:\\Users\\Ace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project01\\obj\\",
+        "outputPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ace\\AppData\\Roaming\\NuGet\\NuGet.Config",

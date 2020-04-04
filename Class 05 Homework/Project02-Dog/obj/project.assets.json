@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project02-Dog\\Project02-Dog.csproj",
+      "projectUniqueName": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project02-Dog\\Project02-Dog.csproj",
       "projectName": "Project02-Dog",
-      "projectPath": "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project02-Dog\\Project02-Dog.csproj",
+      "projectPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project02-Dog\\Project02-Dog.csproj",
       "packagesPath": "C:\\Users\\Ace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ace\\source\\repos\\Class 05 Homework\\Project02-Dog\\obj\\",
+      "outputPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project02-Dog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ace\\AppData\\Roaming\\NuGet\\NuGet.Config",
