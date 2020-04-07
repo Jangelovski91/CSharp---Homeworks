@@ -1,0 +1,20 @@
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.AssemblyInfo.cs
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.deps.json
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.runtimeconfig.json
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.dll
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.pdb
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.dll
+C:\Users\Ace\Desktop\Class06 Homework\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.pdb
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.deps.json
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.runtimeconfig.json
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.dll
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\bin\Debug\netcoreapp2.1\Console LogInApp.pdb
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.AssemblyInfo.cs
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.dll
+C:\Users\Ace\Desktop\Class 06 Homework\Console LogInApp\obj\Debug\netcoreapp2.1\Console LogInApp.pdb
