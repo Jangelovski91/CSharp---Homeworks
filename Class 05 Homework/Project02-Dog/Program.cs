@@ -28,26 +28,26 @@ namespace Project02_Dog
     {
         static void Main(string[] args)
         {
-            Dog Max = new Dog();
+            Dog max = new Dog();
             Console.WriteLine("Enter dog's name.");
-            Max.Name = Console.ReadLine();
+            max.Name = Console.ReadLine();
 
             Console.WriteLine("Enter dog's race.");
-            Max.Race = Console.ReadLine();
+            max.Race = Console.ReadLine();
 
             Console.WriteLine("Enter dog's color.");
-            Max.Color = Console.ReadLine();
+            max.Color = Console.ReadLine();
             Console.WriteLine("Choose one of next dog's actions:Eat, Play, ChaseTail...");
             string DogsAction = Console.ReadLine();
             if(DogsAction == "Eat")
             {
-                Max.Eat();
+                max.Eat();
             } else if(DogsAction == "Play")
             {
-                Max.Play();
+                max.Play();
             } else if(DogsAction == "ChaseTail")
             {
-                Max.ChaseTail();
+                max.ChaseTail();
             } else
             {
                 Console.WriteLine("Wrong Input!"); 
