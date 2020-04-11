@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "CompanyLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CompanyLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompanyLibrary.dll": {}
+        }
       }
     }
   },
@@ -681,10 +691,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "CompanyLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CompanyLibrary/CompanyLibrary.csproj",
+      "msbuildProject": "../CompanyLibrary/CompanyLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "CompanyLibrary >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -694,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project03 Driver and Car\\Project03 Driver and Car.csproj",
-      "projectName": "Project03 Driver and Car",
-      "projectPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project03 Driver and Car\\Project03 Driver and Car.csproj",
+      "projectUniqueName": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyApp\\CompanyApp.csproj",
+      "projectName": "CompanyApp",
+      "projectPath": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyApp\\CompanyApp.csproj",
       "packagesPath": "C:\\Users\\Ace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Class 05 Homework\\Project03 Driver and Car\\obj\\",
+      "outputPath": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ace\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -713,7 +729,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj": {
+              "projectPath": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -742,7 +762,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
