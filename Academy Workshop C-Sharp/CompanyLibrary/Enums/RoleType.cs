@@ -6,8 +6,10 @@ namespace CompanyLibrary.Enums
 {
     public enum RoleType
     {
-        Sales,
+        Sales =1,
         Manager,
+        Contractor,
+        CEO,
         Other
     }
 }

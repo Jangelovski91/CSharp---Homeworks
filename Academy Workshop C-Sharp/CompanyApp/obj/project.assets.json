@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyApp\\CompanyApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ace\\Desktop\\copy-Academy Workshop C-Sharp - Copy\\CompanyApp\\CompanyApp.csproj",
       "projectName": "CompanyApp",
-      "projectPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyApp\\CompanyApp.csproj",
+      "projectPath": "C:\\Users\\Ace\\Desktop\\copy-Academy Workshop C-Sharp - Copy\\CompanyApp\\CompanyApp.csproj",
       "packagesPath": "C:\\Users\\Ace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyApp\\obj\\",
+      "outputPath": "C:\\Users\\Ace\\Desktop\\copy-Academy Workshop C-Sharp - Copy\\CompanyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ace\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -730,8 +730,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj": {
-              "projectPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj"
+            "C:\\Users\\Ace\\Desktop\\copy-Academy Workshop C-Sharp - Copy\\CompanyLibrary\\CompanyLibrary.csproj": {
+              "projectPath": "C:\\Users\\Ace\\Desktop\\copy-Academy Workshop C-Sharp - Copy\\CompanyLibrary\\CompanyLibrary.csproj"
             }
           }
         }

@@ -25,6 +25,22 @@ namespace CompanyApp
             Jan.PrintInfo();
             Jan.ExtendSuccessRevenue(12000);
             Console.WriteLine("Bob's new salary is" + " " + Jan.GetSalary());
+            Console.WriteLine("-------------------------------------------------");
+
+            Manager Jack = new Manager("Jack", "Jackwell");
+            Manager Janny = new Manager("Janny", "Jones");
+            Contractor Marck = new Contractor("Marck", "Rodwell", Jack, 220);
+            Contractor Cris = new Contractor("Cris", "Cole", Janny, 180);
+            SalesPerson Andy = new SalesPerson("Andy", "Backman");
+
+            Employee[] Company = { Marck, Cris, Jack, Janny, Andy };
+
+            CEO bussinessCentar = new CEO("Bill", "Gates", 85, Company);
+            bussinessCentar.PrintInfo();
+            bussinessCentar.PrintEmplooyes();
+            bussinessCentar.GetSalary();
+
+
 
 
             Console.ReadLine();
