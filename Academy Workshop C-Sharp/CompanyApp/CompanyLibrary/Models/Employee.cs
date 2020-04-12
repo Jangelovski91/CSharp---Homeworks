@@ -14,7 +14,7 @@ namespace CompanyLibrary.Models
 
         public void PrintInfo()
         {
-            Console.WriteLine($"{ FirstName} { LastName} has {Salary} euros salary.");
+            Console.WriteLine($"{ FirstName} { LastName} position {Role}, has {Salary} euros salary.");
 
         }
 

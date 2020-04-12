@@ -36,7 +36,7 @@ namespace CompanyApp
             Employee[] Company = { Marck, Cris, Jack, Janny, Andy };
 
             CEO bussinessCentar = new CEO("Bill", "Gates", 85, Company);
-            bussinessCentar.addSharesPrice(90);
+            //bussinessCentar.addSharesPrice(90);
             bussinessCentar.PrintInfo();
             bussinessCentar.PrintEmplooyes();
             bussinessCentar.GetSalary();

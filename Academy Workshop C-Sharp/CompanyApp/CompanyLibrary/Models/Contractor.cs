@@ -17,6 +17,7 @@ namespace CompanyLibrary.Models
             LastName = LastName;
             Responsilbe = responsible;
             Role = RoleType.Contractor;
+            Salary = 3000;
             workHours = WorkHours;
             PayPerHour = 21;
         }

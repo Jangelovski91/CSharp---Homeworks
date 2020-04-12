@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hEAxIRisGMXNbpzx5yQhf5wYooxlAhkHdCgf5eZtWe/+pkZIBg/19VINW/PLXBPBChwvWwNnrlZNDSAmgP7lrQ==",
+  "dgSpecHash": "4slhkb2P2oycXUMjKxVPkRiYp1oAnyfbArnRsmqAJ29cLdS5HqqvO810/HVaxSFAjH2s5VqhpwsRIDuYJ1KlYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyApp\\CompanyApp.csproj",
+  "projectFilePath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyApp\\CompanyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ace\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Ace\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

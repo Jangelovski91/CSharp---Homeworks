@@ -32,7 +32,11 @@ namespace CompanyLibrary.Models
         }
         public void PrintEmplooyes()
         {
-            Console.WriteLine(Employees);
+            Console.WriteLine("Employees are:");
+            foreach(var employee in Employees)
+            {
+                employee.PrintInfo();
+            }
         }
         public override double GetSalary()
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m3vg8bb9/BY4FS9gW29lmXrnOT0XbC9xa0soqylrGwlNvFgrnZ6fMeqxZOPKYNqxVJ4xaDNS830/QHbwCgbuWg==",
+  "dgSpecHash": "3/WHtcWk8/ejEwOVjIXgg0G9Ze/zaSgj56Mv5bEJ2ZVplhSVGqm8MrKM/QVl2mcfXdDscORXXYFRN8/Pn6fyhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ace\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Ace\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

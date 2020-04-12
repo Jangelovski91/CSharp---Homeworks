@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj": {}
+    "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj": {
+    "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj",
         "projectName": "CompanyLibrary",
-        "projectPath": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj",
+        "projectPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\CompanyLibrary.csproj",
         "packagesPath": "C:\\Users\\Ace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ace\\Desktop\\Academy Workshop C-Sharp\\CompanyLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Ace\\Desktop\\git-repos\\CSharp---Homeworks\\Academy Workshop C-Sharp\\CompanyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ace\\AppData\\Roaming\\NuGet\\NuGet.Config",
