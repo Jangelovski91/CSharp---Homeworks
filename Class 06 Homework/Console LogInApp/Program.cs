@@ -20,31 +20,37 @@ namespace Console_LogInApp
                     if(username == user.Username && password == user.Password)
                     {
                         Console.WriteLine($"Welcome {user.Username}, you can read your messages:");
-                        foreach(var sms in user.Messages)
+                        userWasFound = true;
+                        foreach (var sms in user.Messages)
                         {
-                            Console.WriteLine(sms);
+                            Console.WriteLine($"{sms}");
                         }
                     }
-                    userWasFound = true;
-
                 }
-                break;
-              
+                if (!userWasFound)
+                {
+                    Console.WriteLine("This user was not found, do you want to make an account?");
+                    break;
+                }
             }
-            if (userWasFound)
-            {
-                Console.WriteLine("This user was not found, do you want to make an account?");
-            }
-        }
+     }
 
         static void Register(User[] users)
         {
             User newUser = new User();
-
-            Console.WriteLine("Insert your ID here.");
-            bool newId = int.TryParse(Console.ReadLine(), out int id);
-            newUser.ID = id;
-
+            while (true)
+            {
+                Console.WriteLine("Insert your ID here.");
+                
+                bool newId = int.TryParse(Console.ReadLine(), out int id);
+                newUser.ID = id;
+                if (newId)
+                {
+                    break;
+                }
+              
+            }
+            
             Console.WriteLine("Insert your username here.");
             newUser.Username = Console.ReadLine();
             foreach(var user in users)
@@ -53,24 +59,18 @@ namespace Console_LogInApp
                 {
                     Console.WriteLine("Please insert correct username, or thisone is already taken.");
                 }
-                //e{lse
                 
-                    
-                //}
             };
             Console.WriteLine("Insert your password here.");
             newUser.Password = Console.ReadLine();
-            foreach(var user in users)
+
+            while (newUser.Password.Length < 3)
             {
-                if(newUser.Password == "")
-                {
-                    Console.WriteLine("Please insert correct password.");
-                }
-                else
-                {
-                    Console.WriteLine(newUser.Password);
-                }
+                Console.WriteLine("Password length must be > 3");
+                newUser.Password = Console.ReadLine();
             }
+
+
             Array.Resize(ref users, users.Length + 1);
             users[users.Length - 1] = newUser;
 
@@ -114,6 +114,7 @@ namespace Console_LogInApp
                         }
                     default:
                         {
+                            Console.WriteLine("Wrong input! Choose 1 for Login or 2 for Register.");
                             break;
                         }
                 }
