@@ -1,0 +1,9 @@
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\bin\Debug\netcoreapp2.1\VehicleLibrary.deps.json
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\bin\Debug\netcoreapp2.1\VehicleLibrary.dll
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\bin\Debug\netcoreapp2.1\VehicleLibrary.pdb
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\obj\Debug\netcoreapp2.1\VehicleLibrary.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\obj\Debug\netcoreapp2.1\VehicleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\obj\Debug\netcoreapp2.1\VehicleLibrary.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\obj\Debug\netcoreapp2.1\VehicleLibrary.AssemblyInfo.cs
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\obj\Debug\netcoreapp2.1\VehicleLibrary.dll
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\VehicleLibrary\obj\Debug\netcoreapp2.1\VehicleLibrary.pdb

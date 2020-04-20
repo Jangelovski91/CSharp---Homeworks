@@ -1,0 +1,15 @@
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\bin\Debug\netcoreapp2.1\Inheritance Homework.deps.json
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\bin\Debug\netcoreapp2.1\Inheritance Homework.runtimeconfig.json
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\bin\Debug\netcoreapp2.1\Inheritance Homework.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\bin\Debug\netcoreapp2.1\Inheritance Homework.dll
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\bin\Debug\netcoreapp2.1\Inheritance Homework.pdb
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\bin\Debug\netcoreapp2.1\VehicleLibrary.dll
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\bin\Debug\netcoreapp2.1\VehicleLibrary.pdb
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.AssemblyInfo.cs
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.csproj.CopyComplete
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.dll
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.pdb
+C:\Users\Ace\Desktop\Class 07 Homework - Inheritance\Inheritance Homework\obj\Debug\netcoreapp2.1\Inheritance Homework.genruntimeconfig.cache
