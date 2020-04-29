@@ -1,0 +1,15 @@
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\Movie Store.deps.json
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\Movie Store.runtimeconfig.json
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\Movie Store.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\Movie Store.dll
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\Movie Store.pdb
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\Models Library.dll
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\Models Library.pdb
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.AssemblyInfo.cs
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.csproj.CopyComplete
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.dll
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.pdb
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.genruntimeconfig.cache
