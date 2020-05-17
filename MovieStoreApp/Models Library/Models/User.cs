@@ -11,21 +11,27 @@ namespace Models_Library.Models
         public SubscriptionType Subscription { get; set; }
         public Movie[] Movies { get; set; }
 
+        
         public User()
         {
-
+            Role = RoleType.User;
         }
-        public User(string firstName,string lastName,int age,string userName,DateTime date,int idNumber,SubscriptionType subscription,Movie[] movie) 
-            : base(RoleType.User)
+        public User(string firstName, string lastName, string userName, string pass)
         {
             FirstName = firstName;
             LastName = lastName;
-            Age = age;
             UserName = userName;
-            DateOfRegistration = date;
-            MemberNumber = idNumber;
+            Password = pass;
+            Role = RoleType.User;
+
+        }
+
+        public User(string firstName, string lastName, int age, string userName, string pass, DateTime registrationDate,int memberNumber,SubscriptionType subscription) 
+            : base(firstName, lastName, age, userName, pass, registrationDate)
+        {
+            Role = RoleType.User;
+            MemberNumber = memberNumber;
             Subscription = subscription;
-            Movies = movie;
         }
     }
 }

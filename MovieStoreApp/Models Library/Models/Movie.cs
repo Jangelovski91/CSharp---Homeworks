@@ -25,7 +25,7 @@ namespace Models_Library.Models
             Genre = genre;
             
         }
-        public void SetPrice()
+        public double SetPrice()
         {
             if(Year < 2000)
             {
@@ -39,6 +39,13 @@ namespace Models_Library.Models
             {
                 Price = new Random().Next(300, 500);
             }
+            return Price;
+        }
+        
+        public string MovieInfo()
+        {
+            return 
+                $"{Title} - {Genre} {Year}y, price {Price}.";
         }
     }
 

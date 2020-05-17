@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fuIXMFL1RnCmPErHmR0Orkezodstzla+m6Ei16BcWQcvICKOMWNVpwdZE1JOBVDqsg54IdDjN5Q8eNFmfSzRQ==",
+  "dgSpecHash": "bMyP4qM9+BbMq/5lZ98/tLzt0xNcQJTII8JIokm1jDpN+NdlmiNkqkeVeQgJ/Uk2P46l5WrJokoxLm1UE3DNPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\Movie Store\\Movie Store.csproj",
+  "projectFilePath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\MovieStoreApp.Services\\MovieStoreApp.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ace\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Ace\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

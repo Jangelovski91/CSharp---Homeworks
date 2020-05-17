@@ -10,19 +10,32 @@ namespace Models_Library.Models
         private double Salary { get; set; }
         public double HoursPerMonth { get; set; }
         public double? Bonus { get; set; }
+
+
         public Employee()
         {
-
+            Role = RoleType.Employee;
         }
-        public Employee(string firstName, string lastName, int age, string userName, DateTime date, double hours) : base(RoleType.Employee)
+
+        public Employee(string firstName, string lastName, string userName, string pass)
         {
             FirstName = firstName;
             LastName = lastName;
-            Age = age;
             UserName = userName;
-            DateOfRegistration = date;
+            Password = pass;
+            Role = RoleType.Employee;
+
+        }
+
+        public Employee(string firstName, string lastName, int age, string userName,string pass, DateTime registrationDate, double hours)
+            : base(firstName, lastName, age, userName, pass, registrationDate)
+        {
+
+            Role = RoleType.Employee;
             HoursPerMonth = hours;
         }
+        
+        
         public void SetBonus()
         {
             if(HoursPerMonth > 160)

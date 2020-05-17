@@ -217,19 +217,6 @@
         "runtime": {
           "bin/placeholder/Models Library.dll": {}
         }
-      },
-      "MovieStoreApp.Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Models Library": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MovieStoreApp.Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MovieStoreApp.Services.dll": {}
-        }
       }
     }
   },
@@ -709,18 +696,12 @@
       "type": "project",
       "path": "../Models Library/Models Library.csproj",
       "msbuildProject": "../Models Library/Models Library.csproj"
-    },
-    "MovieStoreApp.Services/1.0.0": {
-      "type": "project",
-      "path": "../MovieStoreApp.Services/MovieStoreApp.Services.csproj",
-      "msbuildProject": "../MovieStoreApp.Services/MovieStoreApp.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NETCore.App >= 2.1.0",
-      "Models Library >= 1.0.0",
-      "MovieStoreApp.Services >= 1.0.0"
+      "Models Library >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -729,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\Movie Store\\Movie Store.csproj",
-      "projectName": "Movie Store",
-      "projectPath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\Movie Store\\Movie Store.csproj",
+      "projectUniqueName": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\MovieStoreApp.Services\\MovieStoreApp.Services.csproj",
+      "projectName": "MovieStoreApp.Services",
+      "projectPath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\MovieStoreApp.Services\\MovieStoreApp.Services.csproj",
       "packagesPath": "C:\\Users\\Ace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\Movie Store\\obj\\",
+      "outputPath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\MovieStoreApp.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ace\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -751,9 +732,6 @@
           "projectReferences": {
             "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\Models Library\\Models Library.csproj": {
               "projectPath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\Models Library\\Models Library.csproj"
-            },
-            "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\MovieStoreApp.Services\\MovieStoreApp.Services.csproj": {
-              "projectPath": "C:\\Users\\Ace\\Desktop\\MovieStoreApp\\MovieStoreApp.Services\\MovieStoreApp.Services.csproj"
             }
           }
         }

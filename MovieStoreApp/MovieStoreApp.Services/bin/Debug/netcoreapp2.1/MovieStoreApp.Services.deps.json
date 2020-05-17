@@ -6,41 +6,25 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Movie Store/1.0.0": {
-        "dependencies": {
-          "MovieStoreApp.Services": "1.0.0"
-        },
+      "MovieStoreApp.Services/1.0.0": {
         "runtime": {
-          "Movie Store.dll": {}
+          "MovieStoreApp.Services.dll": {}
         }
       },
       "Models Library/1.0.0": {
         "runtime": {
           "Models Library.dll": {}
         }
-      },
-      "MovieStoreApp.Services/1.0.0": {
-        "dependencies": {
-          "Models Library": "1.0.0"
-        },
-        "runtime": {
-          "MovieStoreApp.Services.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "Movie Store/1.0.0": {
+    "MovieStoreApp.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "Models Library/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MovieStoreApp.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

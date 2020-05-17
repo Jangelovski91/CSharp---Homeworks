@@ -13,3 +13,5 @@ C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Sto
 C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.dll
 C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.pdb
 C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\obj\Debug\netcoreapp2.1\Movie Store.genruntimeconfig.cache
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.dll
+C:\Users\Ace\Desktop\MovieStoreApp\Movie Store\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.pdb
