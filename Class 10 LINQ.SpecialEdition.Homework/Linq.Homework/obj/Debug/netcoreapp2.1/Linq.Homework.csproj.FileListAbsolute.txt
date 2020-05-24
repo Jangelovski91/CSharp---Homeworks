@@ -1,0 +1,12 @@
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\bin\Debug\netcoreapp2.1\Linq.Homework.deps.json
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\bin\Debug\netcoreapp2.1\Linq.Homework.runtimeconfig.json
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\bin\Debug\netcoreapp2.1\Linq.Homework.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\bin\Debug\netcoreapp2.1\Linq.Homework.dll
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\bin\Debug\netcoreapp2.1\Linq.Homework.pdb
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\obj\Debug\netcoreapp2.1\Linq.Homework.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\obj\Debug\netcoreapp2.1\Linq.Homework.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\obj\Debug\netcoreapp2.1\Linq.Homework.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\obj\Debug\netcoreapp2.1\Linq.Homework.AssemblyInfo.cs
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\obj\Debug\netcoreapp2.1\Linq.Homework.dll
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\obj\Debug\netcoreapp2.1\Linq.Homework.pdb
+C:\Users\Ace\Desktop\Class10.Linq.Homework\LINQ.Homework\Linq.Homework\obj\Debug\netcoreapp2.1\Linq.Homework.genruntimeconfig.cache
