@@ -7,9 +7,11 @@ namespace Models_Library.Models
 {
     public class Movie 
     {
+        private static int _idGenerator = 0;
         public string Title { get; set; }
+        public int Id { get; set; }
         public string Description { get; set; }
-        public int Year { get; set; }
+        public DateTime Year { get; set; }
         public MovieGenre Genre { get; set; }
         private double Price { get; set; }
 
@@ -17,9 +19,11 @@ namespace Models_Library.Models
         {
 
         }
-        public Movie(string title, string description, int year, MovieGenre genre)
+        public Movie(string title, string description, DateTime year, MovieGenre genre)
         {
+            _idGenerator++;
             Title = title;
+            Id = _idGenerator;
             Description = description;
             Year = year;
             Genre = genre;
@@ -27,17 +31,17 @@ namespace Models_Library.Models
         }
         public double SetPrice()
         {
-            if(Year < 2000)
+            if(Year.Year < 2000)
             {
-                Price = new Random().Next(100, 200);
+                Price = new Random().Next(5, 10);
 
-            } else if(Year >= 2000 && Year < 2000)
+            } else if(Year.Year >= 2000 && Year.Year < 2000)
             {
-                Price = new Random().Next(200, 300);
+                Price = new Random().Next(11, 17);
             }
             else
             {
-                Price = new Random().Next(300, 500);
+                Price = new Random().Next(18, 25);
             }
             return Price;
         }
@@ -45,7 +49,7 @@ namespace Models_Library.Models
         public string MovieInfo()
         {
             return 
-                $"{Title} - {Genre} {Year}y, price {Price}.";
+                $"{Title} - {Genre} {Year.Year}y, price - {Price}$ (Id #{Id}).";
         }
     }
 

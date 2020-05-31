@@ -48,6 +48,39 @@ namespace MovieStoreApp.Services
             }
             
         }
+        public bool ValidateStringLength(string value, int range)
+        {
+            int maxValue = 20;
+            if(value.Length < range && range < maxValue)
+            {
+                return false;
+            }
+           
+                return true;
+        }
+        
+
+        public bool ValidatePassword(string password)
+        {
+            if (password.Length < 7) return false;
+
+            char[] characters = password.ToCharArray();
+            bool hasNumbers = false;
+            foreach (char character in characters)
+            {
+                int num = 0;
+                if (int.TryParse(character.ToString(), out num))
+                {
+                    hasNumbers = true;
+                    break;
+                }
+            }
+            if (!hasNumbers) return false;
+
+            return true;
+
+        }
+       
 
     }
 }

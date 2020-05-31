@@ -7,6 +7,7 @@ namespace Models_Library.Models
 {
     public class Employee : Member
     {
+        private static int _iDGenerator = 0;
         private double Salary { get; set; }
         public double HoursPerMonth { get; set; }
         public double? Bonus { get; set; }
@@ -19,6 +20,8 @@ namespace Models_Library.Models
 
         public Employee(string firstName, string lastName, string userName, string pass)
         {
+            _iDGenerator++;
+            Id = _iDGenerator;
             FirstName = firstName;
             LastName = lastName;
             UserName = userName;
@@ -30,7 +33,8 @@ namespace Models_Library.Models
         public Employee(string firstName, string lastName, int age, string userName,string pass, DateTime registrationDate, double hours)
             : base(firstName, lastName, age, userName, pass, registrationDate)
         {
-
+            _iDGenerator++;
+            Id = _iDGenerator;
             Role = RoleType.Employee;
             HoursPerMonth = hours;
         }

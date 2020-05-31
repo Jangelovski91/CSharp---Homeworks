@@ -7,8 +7,10 @@ namespace Models_Library
 {
     public class Member
     {
+        
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public int Id { get; set; }
         public int Age { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
@@ -27,6 +29,7 @@ namespace Models_Library
 
         public Member(string firstName, string lastName, int age, string userName, string pass, DateTime registrationDate)
         {
+            
             FirstName = firstName;
             LastName = lastName;
             Age = age;
@@ -45,7 +48,7 @@ namespace Models_Library
         {
             
                 return
-                    $"Member {FirstName} {LastName}, registered on  - {DateOfRegistration}.";
+                    $"Member {FirstName} {LastName} Id #{Id}, registered on  - {DateOfRegistration}.";
            
         }
 

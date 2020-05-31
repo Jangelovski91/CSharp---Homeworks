@@ -7,9 +7,10 @@ namespace Models_Library.Models
 {
     public class User : Member
     {
+        private static int _iDGenerator = 0;
         public int MemberNumber { get; set; }
         public SubscriptionType Subscription { get; set; }
-        public Movie[] Movies { get; set; }
+        public List<Movie> Movies { get; set; }
 
         
         public User()
@@ -18,6 +19,8 @@ namespace Models_Library.Models
         }
         public User(string firstName, string lastName, string userName, string pass)
         {
+            _iDGenerator++;
+            Id = _iDGenerator;
             FirstName = firstName;
             LastName = lastName;
             UserName = userName;
@@ -29,6 +32,8 @@ namespace Models_Library.Models
         public User(string firstName, string lastName, int age, string userName, string pass, DateTime registrationDate,int memberNumber,SubscriptionType subscription) 
             : base(firstName, lastName, age, userName, pass, registrationDate)
         {
+            _iDGenerator++;
+            Id = _iDGenerator;
             Role = RoleType.User;
             MemberNumber = memberNumber;
             Subscription = subscription;

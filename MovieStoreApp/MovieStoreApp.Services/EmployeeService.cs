@@ -1,17 +1,20 @@
 ﻿using Models_Library.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace MovieStoreApp.Services
 {
     public class EmployeeService
     {
-        public Employee[] Employees { get; set; }
+        private HelperService _helperService = new HelperService();
+
+        public List<Employee> Employees { get; set; }
 
         public EmployeeService()
         {
-            Employees = new Employee[]
+            Employees = new List<Employee>
             {
                 new Employee("Ben", "Benski", 31, "ben_ten","ben123", new DateTime(2019/07/15),180),
                 new Employee("Ana", "Iverson", 29, "ana_iv","ana123", new DateTime(2018/01/28),240)
@@ -31,14 +34,20 @@ namespace MovieStoreApp.Services
 
         public Employee Register(Employee employee)
         {
-            Employee[] registeredEmployees = Employees;
-            Array.Resize(ref registeredEmployees, registeredEmployees.Length + 1);
-            registeredEmployees[registeredEmployees.Length - 1] = employee;
-            Employees = registeredEmployees;
+            if (!_helperService.ValidateStringLength(employee.FirstName, 2) ||
+                !_helperService.ValidateStringLength(employee.LastName, 2) ||
+                !_helperService.ValidateStringLength(employee.UserName, 5))
+            {
+                return null;
+            }
+            if (!_helperService.ValidatePassword(employee.Password)) return null;
+
+            Employees.Add(employee);
 
             return
-                Employees[Employees.Length - 1];
+                Employees.LastOrDefault();
         }
+
 
         
     }

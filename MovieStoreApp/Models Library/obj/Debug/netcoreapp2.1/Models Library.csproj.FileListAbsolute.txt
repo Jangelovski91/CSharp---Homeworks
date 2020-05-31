@@ -7,3 +7,12 @@ C:\Users\Ace\Desktop\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models
 C:\Users\Ace\Desktop\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.AssemblyInfo.cs
 C:\Users\Ace\Desktop\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.dll
 C:\Users\Ace\Desktop\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.pdb
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\bin\Debug\netcoreapp2.1\Models Library.deps.json
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\bin\Debug\netcoreapp2.1\Models Library.dll
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\bin\Debug\netcoreapp2.1\Models Library.pdb
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.AssemblyInfo.cs
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.dll
+C:\Users\Ace\Desktop\C#\MovieStoreApp\Models Library\obj\Debug\netcoreapp2.1\Models Library.pdb

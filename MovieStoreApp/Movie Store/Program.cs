@@ -15,14 +15,14 @@ namespace Movie_Store
         private static HelperService _helperService = new HelperService();
 
         private static Member _loggedMember = null;
-        //private static User _loggedUser = null;
-        //private static Employee _loggedEmployee = null;
+      
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Cinemania movie store!");
+
             while (true)
             {
-                Console.WriteLine("Cinemania movie store!");
                 Console.WriteLine("For Login or Register as User press 1, as Employee press 2.");
                 Console.WriteLine("(1) User");
                 Console.WriteLine("(2) Employee");
@@ -38,7 +38,7 @@ namespace Movie_Store
 
                         if (userLoginOrRegister == 1)
                         {
-
+                           
                             Console.WriteLine("Welcome back our dear customer!");
                             Console.WriteLine("Now enter your username.");
                             string userName = Console.ReadLine();
@@ -98,6 +98,7 @@ namespace Movie_Store
                 {
                     while (true)
                     {
+                        
                         Console.WriteLine("Hi! For Login press 1, so if You are new employee you should press 2 to create an account.");
                         Console.WriteLine("(1) Login");
                         Console.WriteLine("(2) Register");
@@ -164,10 +165,39 @@ namespace Movie_Store
 
                 if(_loggedMember.Role == RoleType.User)
                 {
-                    _movieService.printAllMovies();
+                    
+                    Console.WriteLine($"Hello mr/mrs {_loggedMember.LastName} - id num {_loggedMember.Id}.");
+                    Console.WriteLine();
+                    Console.WriteLine("1) Show all available movies a the moment.");
+                    Console.WriteLine("2) Rent a movie.");
+                    Console.WriteLine("3) Return rented movie.");
+                    string selectedOption = Console.ReadLine();
+                    switch (selectedOption)
+                    {
+                        case "1":
+                            Console.WriteLine("Here is a list of available movies a the moment:");
+                            _movieService.printAllMovies();
+                            break;
+                        case "2":
+                            Console.WriteLine("Choose a movie you want to rent.");
+                            Console.WriteLine("Here is a list of available movies a the moment:");
+                            _movieService.printAllMovies();
+                            Console.WriteLine();
+                            Console.WriteLine("Entere your id number.");
+                            int userId = int.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter id of movie you want to rent.");
+                            int movieId = int.Parse(Console.ReadLine());
+                            _userService.ReantAMovie(userId, movieId);
+                            break;
+
+                    }
+                    
                 }
                 else if(_loggedMember.Role == RoleType.Employee)
                 {
+                    Console.WriteLine($"Hello mr/mrs {_loggedMember.LastName}!");
+                    Console.WriteLine();
+                    Console.WriteLine("List of users:");
                     _userService.SeeAllUsers();
                 }
                 else
