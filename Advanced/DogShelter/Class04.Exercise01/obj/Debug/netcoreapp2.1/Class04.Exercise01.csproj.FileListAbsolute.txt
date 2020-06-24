@@ -1,0 +1,15 @@
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\bin\Debug\netcoreapp2.1\Class04.Exercise01.deps.json
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\bin\Debug\netcoreapp2.1\Class04.Exercise01.runtimeconfig.json
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\bin\Debug\netcoreapp2.1\Class04.Exercise01.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\bin\Debug\netcoreapp2.1\Class04.Exercise01.dll
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\bin\Debug\netcoreapp2.1\Class04.Exercise01.pdb
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.AssemblyInfo.cs
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.csproj.CopyComplete
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.dll
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.pdb
+C:\Users\Ace\Desktop\DogShelter\Class04.Exercise01\obj\Debug\netcoreapp2.1\Class04.Exercise01.genruntimeconfig.cache

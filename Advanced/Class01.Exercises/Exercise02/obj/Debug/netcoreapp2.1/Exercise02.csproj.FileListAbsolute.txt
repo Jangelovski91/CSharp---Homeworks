@@ -1,0 +1,12 @@
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\bin\Debug\netcoreapp2.1\Exercise02.deps.json
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\bin\Debug\netcoreapp2.1\Exercise02.runtimeconfig.json
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\bin\Debug\netcoreapp2.1\Exercise02.runtimeconfig.dev.json
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\bin\Debug\netcoreapp2.1\Exercise02.dll
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\bin\Debug\netcoreapp2.1\Exercise02.pdb
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.csprojAssemblyReference.cache
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.AssemblyInfo.cs
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.dll
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.pdb
+C:\Users\Ace\Desktop\C#\Advanced\Class01\Exercise02\obj\Debug\netcoreapp2.1\Exercise02.genruntimeconfig.cache
